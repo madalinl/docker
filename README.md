@@ -1,2 +1,2 @@
 # dockerfiles
-Place to store my Dockerfiles
+Place to store my Docker playground
